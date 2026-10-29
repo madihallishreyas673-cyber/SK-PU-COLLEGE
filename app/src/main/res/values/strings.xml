@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SchoolHub</string>
+    <!-- Change the school name here (one place) -->
+    <string name="school_name">SKPU College Hukkeri</string>
+</resources>
